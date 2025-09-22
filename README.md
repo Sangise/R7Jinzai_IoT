@@ -4,7 +4,7 @@
 ### ページ11 「プログラムを書いてみる」
 プログラムは[こちら](https://github.com/Sangise/R7Jinzai_IoT/blob/main/%E7%AC%AC3%E5%9B%9E/page11.gs)
 ### ページ17 「GASにプログラムを追加」
-プログラムはこちら
+プログラムは[こちら](https://github.com/Sangise/R7Jinzai_IoT/blob/main/%E7%AC%AC3%E5%9B%9E/page17.gs)
 ### ページ21 「URLにデータを載せる」
 https://script.google.com/macros/s/GASのID/exec?data=200
 <br> ※「exec」までのURLはデプロイの管理に書かれているURLを貼り付けてください
