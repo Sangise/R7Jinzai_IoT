@@ -9,7 +9,7 @@
 https://script.google.com/macros/s/GASのID/exec?data=200
 <br> ※「exec」までのURLはデプロイの管理に書かれているURLを貼り付けてください
 ### ページ24 「２つのデータを送信する方法：GAS」
-プログラムはこちら
+プログラムは[こちら](https://github.com/Sangise/R7Jinzai_IoT/blob/main/%E7%AC%AC3%E5%9B%9E/page24.gs)
 ### ページ27 「２つのデータを送信する方法：URL設定」
 https://script.google（省略）/exec?data1=200&data2=300
 <br> ※「exec」までのURLはデプロイの管理に書かれているURLを貼り付けてください
