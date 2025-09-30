@@ -15,5 +15,5 @@ https://script.google（省略）/exec?data1=200&data2=300
 <br> ※「exec」までのURLはデプロイの管理に書かれているURLを貼り付けてください
 ### ページ32 「ESP32からGASにデータを送信するプログラム」
 プログラムは[こちら](https://github.com/Sangise/R7Jinzai_IoT/blob/main/%E7%AC%AC3%E5%9B%9E/page32.ino)
-### ページ40 「AD変換した値をGASに送信：プログラム」
+### ページ41 「AD変換した値をGASに送信：プログラム」
 プログラムは[こちら](https://github.com/Sangise/R7Jinzai_IoT/blob/main/%E7%AC%AC3%E5%9B%9E/page40.ino)
